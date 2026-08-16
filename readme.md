@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/ranheliang/Shadowrocket-ADBlock-Rules-Forever/
 - 关闭 IPv6，减少异常解析和泄漏概率
 - 默认不启用 MITM/HTTPS 解密
 - 策略组名称保持原样，方便兼容原有节点/分组习惯
+- 增加 社媒营销 策略组：WhatsApp / Instagram / LinkedIn / Facebook / TikTok / X / Telegram / Pinterest / Reddit
 
 ## 其它可选配置
 
