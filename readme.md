@@ -94,6 +94,15 @@ https://raw.githubusercontent.com/ranheliang/Shadowrocket-ADBlock-Rules-Forever/
 ![二维码](https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=https%3A%2F%2Fraw.githubusercontent.com%2Franheliang%2FShadowrocket-ADBlock-Rules-Forever%2Frelease%2Fsr_ad_only.conf)
 
 
+
+### 兼容旧地址
+
+如果你以前已经在小火箭导入过 `lazy_group.conf`，这个地址也可以继续更新；它现在和安全优化版 `lazy_group_safe.conf` 内容一致：
+
+```text
+https://raw.githubusercontent.com/ranheliang/Shadowrocket-ADBlock-Rules-Forever/release/lazy_group.conf
+```
+
 ## 说明
 
 - 小火箭扫码导入时，请确认地址开头是 https://raw.githubusercontent.com/ranheliang/Shadowrocket-ADBlock-Rules-Forever/release/。
